@@ -1,5 +1,5 @@
 ﻿<?php
-// operatory bitowe
+// operatory bitowe xD
 // and &, or |, not ~, xor ^, <<, >>
 
 $x = 0b1010;
